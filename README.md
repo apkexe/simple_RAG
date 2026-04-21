@@ -1,5 +1,5 @@
 # RAG System
-A simple Retrieval-Augmented Generation (RAG) system that combines document embeddings with Azure OpenAI to answer questions based on provided documents.
+A simple Retrieval-Augmented Generation (RAG) system that combines document embeddings with Azure OpenAI to answer questions based on provided documents without using LangChain.
 
 ## Features
 
