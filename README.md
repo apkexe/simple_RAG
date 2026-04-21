@@ -1,4 +1,4 @@
-# Prepareisio - RAG System
+# RAG System
 A simple Retrieval-Augmented Generation (RAG) system that combines document embeddings with Azure OpenAI to answer questions based on provided documents.
 
 ## Features
